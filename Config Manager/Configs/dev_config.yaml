@@ -1,0 +1,12 @@
+database:
+  host: localhost
+  port: 5432
+  user: staging_user
+  password: staging_password
+  name: staging_db
+
+api_key: staging_api_key_12345
+other_param:
+  nested_param:
+    port: 8080
+    key: value

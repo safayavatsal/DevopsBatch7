@@ -1,0 +1,16 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": 8830,
+        "user": "dev_user",
+        "password": "dev_password",
+        "name": "dev_db"
+    },
+    "api_key": "dev_api_key_12345",
+    "other_param": {
+        "nested_param": {
+            "port": 8080,
+            "key": "value"
+        }
+    }
+}
